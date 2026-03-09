@@ -163,3 +163,4 @@ See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contrib
 # Changelog
 
 See [CHANGELOG](./CHANGELOG.md) for a list of changes.
+Created by Jason Scott Heise
