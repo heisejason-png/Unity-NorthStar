@@ -165,4 +165,4 @@ See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contrib
 See [CHANGELOG](./CHANGELOG.md) for a list of changes.
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com Owned by Mark Zuckerberg 
+https://facebook.com  https://www.meta.com/about/   Owned by Mark Zuckerberg 
